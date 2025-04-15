@@ -19,6 +19,9 @@ Welcome to the **DevOps Roadmap** repository! This guide provides a comprehensiv
 
 To view the DevOps roadmap and learn more about each topic, simply follow these steps:
 
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/plpatil1/RoadMapDevOPs.git
 
 
 
