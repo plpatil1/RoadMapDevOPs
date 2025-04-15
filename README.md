@@ -10,3 +10,4 @@ Welcome to the **DevOps Roadmap** repository! This guide provides a comprehensiv
 4. **📁 Configuration Management** – Ensuring Consistency Across Environments
 5. **📁 Containerization** – Lightweight Virtualization for Modern Apps
 6. **📁 Container Orchestration** – Managing Containers at Scale
+7. **📁 Monitoring & Logging** – Observability in DevOps
